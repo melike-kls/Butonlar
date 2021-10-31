@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Butonlar", "Butonlar\Butonlar.csproj", "{251E8C96-F39D-4B35-A818-9EDC51A19870}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{251E8C96-F39D-4B35-A818-9EDC51A19870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{251E8C96-F39D-4B35-A818-9EDC51A19870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{251E8C96-F39D-4B35-A818-9EDC51A19870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251E8C96-F39D-4B35-A818-9EDC51A19870}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C98C8F3D-7B33-4587-B8AB-9A763FFB3E93}
+	EndGlobalSection
+EndGlobal
